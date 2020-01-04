@@ -1,0 +1,2 @@
+include ':app', ':splashguide', ':handle'
+rootProject.name='sample'
